@@ -40,7 +40,7 @@ SOURCES += \
     src/other/mainwindow.cpp \
     src/yuanshen/Venti.cpp \
     src/slime/Cyro.cpp \
-    src/slime/Hydro.cpp \
+    src/slime/Grass.cpp \
     src/slime/Eletro.cpp \
     src/slime/Anemo.cpp \
     src/slime/Pyro.cpp \
@@ -68,7 +68,7 @@ HEADERS += \
     src/other/mainwindow.h \
     src/yuanshen/Venti.h \
     src/slime/Cyro.h \
-    src/slime/Hydro.h \
+    src/slime/Grass.h \
     src/slime/Eletro.h \
     src/slime/Anemo.h \
     src/slime/Pyro.h \
