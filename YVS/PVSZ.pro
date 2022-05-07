@@ -33,7 +33,7 @@ SOURCES += \
     src/other/map.cpp \
     src/other/mower.cpp \
     src/other/other.cpp \
-    src/other/pea.cpp \
+    src/other/ATK.cpp \
     src/other/shop.cpp \
     src/other/shovel.cpp \
     src/other/sun.cpp \
@@ -62,7 +62,7 @@ HEADERS += \
     src/other/map.h \
     src/other/mower.h \
     src/other/other.h \
-    src/other/pea.h \
+    src/other/atk.h \
     src/other/shop.h \
     src/other/shovel.h \
     src/other/sun.h \
